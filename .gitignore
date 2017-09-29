@@ -1,0 +1,10 @@
+*~
+*.egg-info
+*.EGG-INFO
+*.log
+*.pot
+*.pyc
+*.pyo
+build/
+dist/
+local_settings.py
